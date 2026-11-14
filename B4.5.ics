@@ -10,16 +10,6 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:B4.5-1611-0@noroloji-staji
 DTSTAMP:20261114T090000Z
-DTSTART:20261116T060000Z
-DTEND:20261116T090000Z
-SUMMARY:Oryantasyon
-LOCATION:Bölüm 74 Seminer Odası (saat/yer varsayıldı)
-DESCRIPTION:Bölüm 74 Seminer Odası (saat/yer varsayıldı)\nKüçük g
- rup B4.5
-END:VEVENT
-BEGIN:VEVENT
-UID:B4.5-1611-1@noroloji-staji
-DTSTAMP:20261114T090000Z
 DTSTART:20261116T103000Z
 DTEND:20261116T114500Z
 SUMMARY:Beyin Cerrahisi
@@ -27,17 +17,17 @@ LOCATION:Konferans Salonu 1
 DESCRIPTION:Konferans Salonu 1\nKüçük grup B4.5
 END:VEVENT
 BEGIN:VEVENT
-UID:B4.5-1611-2@noroloji-staji
+UID:B4.5-1611-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261116T114500Z
 DTEND:20261116T124500Z
-SUMMARY:Nörolojik Muayene: Giriş
+SUMMARY:Oryantasyon + Nörolojik Muayene: Giriş
 LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava\nK
- üçük grup B4.5
+DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava · 
+ Dersin başında staj oryantasyonu\nKüçük grup B4.5
 END:VEVENT
 BEGIN:VEVENT
-UID:B4.5-1611-3@noroloji-staji
+UID:B4.5-1611-2@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261116T124500Z
 DTEND:20261116T134500Z

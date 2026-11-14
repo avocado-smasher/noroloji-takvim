@@ -31,10 +31,10 @@ UID:A3.1-1611-2@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261116T114500Z
 DTEND:20261116T124500Z
-SUMMARY:Nörolojik Muayene: Giriş
+SUMMARY:Oryantasyon + Nörolojik Muayene: Giriş
 LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava\nK
- üçük grup A3.1
+DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava · 
+ Dersin başında staj oryantasyonu\nKüçük grup A3.1
 END:VEVENT
 BEGIN:VEVENT
 UID:A3.1-1611-3@noroloji-staji
