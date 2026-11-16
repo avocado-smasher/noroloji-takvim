@@ -22,20 +22,10 @@ UID:C3.3-1611-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261116T114500Z
 DTEND:20261116T124500Z
-SUMMARY:Oryantasyon + Nörolojik Muayene: Giriş
+SUMMARY:Oryantasyon + Nörolojik Muayene: Motor Muayene
 LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava · 
- Dersin başında staj oryantasyonu\nKüçük grup C3.3
-END:VEVENT
-BEGIN:VEVENT
-UID:C3.3-1611-2@noroloji-staji
-DTSTAMP:20261114T090000Z
-DTSTART:20261116T124500Z
-DTEND:20261116T134500Z
-SUMMARY:Nörolojik Muayene: Motor Muayene
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1 · Prof. Dr. Gökçem Yıldız Sarıkaya\n
- Küçük grup C3.3
+DESCRIPTION:Konferans Salonu 1 · Prof. Dr. Gökçem Yıldız Sarıkaya 
+ · Dersin başında staj oryantasyonu\nKüçük grup C3.3
 END:VEVENT
 BEGIN:VEVENT
 UID:C3.3-1711-0@noroloji-staji
