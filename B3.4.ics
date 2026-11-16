@@ -12,9 +12,10 @@ UID:B3.4-1611-0@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261116T103000Z
 DTEND:20261116T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: KİBAS
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. 
+ Üyesi Efecan Çekiç\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-1611-1@noroloji-staji
@@ -50,9 +51,10 @@ UID:B3.4-1711-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261117T103000Z
 DTEND:20261117T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: Pediatrik Nöroşirürji
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. 
+ Üyesi Ahmet Soyer\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-1711-2@noroloji-staji
@@ -88,9 +90,10 @@ UID:B3.4-1811-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261118T103000Z
 DTEND:20261118T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: Serebrovasküler Hastalıkların Cerrahisi
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Prof. Dr. M.
+  Erhan Türkoğlu\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-1811-2@noroloji-staji
@@ -126,9 +129,10 @@ UID:B3.4-1911-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261119T103000Z
 DTEND:20261119T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: İntrakranial Tümörler
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Prof. Dr. Mu
+ stafa Berker\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-1911-2@noroloji-staji
@@ -163,9 +167,10 @@ UID:B3.4-2311-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261123T103000Z
 DTEND:20261123T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: Fonksiyonel Nöroşirürji
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Doç. Dr. Ah
+ met İlkay Işıkay\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-2311-2@noroloji-staji
@@ -191,9 +196,10 @@ UID:B3.4-2411-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261124T103000Z
 DTEND:20261124T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: Spinal Cerrahi
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Doç. Dr. Ba
+ lkan Şahin\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-2511-0@noroloji-staji
@@ -209,9 +215,10 @@ UID:B3.4-2511-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261125T103000Z
 DTEND:20261125T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: Periferik Sinir Cerrahisi
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. G
+ ör. Yahya Efe Güner\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-2511-2@noroloji-staji
@@ -237,9 +244,10 @@ UID:B3.4-2611-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261126T103000Z
 DTEND:20261126T114500Z
-SUMMARY:Beyin Cerrahisi
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1\nKüçük grup B3.4
+SUMMARY:NRŞ: Kafa Travmaları
+LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Prof. Dr. Mu
+ stafa Berker\, Doç. Dr. Şahin Hanalioğlu\nKüçük grup B3.4
 END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-2711-0@noroloji-staji
@@ -546,10 +554,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:B3.4-2512-0@noroloji-staji
 DTSTAMP:20261114T090000Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
+DTSTART:20261225T053000Z
+DTEND:20261225T073000Z
 SUMMARY:BEYİN CERRAHİSİ SINAVI
-LOCATION:Saat ve yer belgede belirtilmemiş
-DESCRIPTION:Saat ve yer belgede belirtilmemiş\nKüçük grup B3.4
+LOCATION:Yer belirtilmemiş
+DESCRIPTION:Yer belirtilmemiş · bitiş saati yazmıyor\nKüçük grup B
+ 3.4
 END:VEVENT
 END:VCALENDAR
