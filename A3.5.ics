@@ -52,10 +52,10 @@ UID:A3.5-1711-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261117T103000Z
 DTEND:20261117T114500Z
-SUMMARY:NRŞ: Pediatrik Nöroşirürji
+SUMMARY:NRŞ: Periferik Sinir Cerrahisi
 LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
-DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. 
- Üyesi Ahmet Soyer\nKüçük grup A3.5
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. G
+ ör. Yahya Efe Güner\nKüçük grup A3.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A3.5-1711-2@noroloji-staji
@@ -222,10 +222,10 @@ UID:A3.5-2511-1@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261125T103000Z
 DTEND:20261125T114500Z
-SUMMARY:NRŞ: Periferik Sinir Cerrahisi
+SUMMARY:NRŞ: Pediatrik Nöroşirürji
 LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
-DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. G
- ör. Yahya Efe Güner\nKüçük grup A3.5
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. 
+ Üyesi Ahmet Soyer\nKüçük grup A3.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A3.5-2511-2@noroloji-staji
