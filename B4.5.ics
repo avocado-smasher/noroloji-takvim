@@ -86,26 +86,6 @@ DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Prof. Dr. M.
   Erhan Türkoğlu\nKüçük grup B4.5
 END:VEVENT
 BEGIN:VEVENT
-UID:B4.5-1811-2@noroloji-staji
-DTSTAMP:20261114T090000Z
-DTSTART:20261118T114500Z
-DTEND:20261118T124500Z
-SUMMARY:Nörolojik Muayene: Mental Muayene
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava\nK
- üçük grup B4.5
-END:VEVENT
-BEGIN:VEVENT
-UID:B4.5-1811-3@noroloji-staji
-DTSTAMP:20261114T090000Z
-DTSTART:20261118T124500Z
-DTEND:20261118T134500Z
-SUMMARY:Nörolojik Muayene: Serebellar ve Ekstrapiramidal Muayene
-LOCATION:Konferans Salonu 1
-DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava\nK
- üçük grup B4.5
-END:VEVENT
-BEGIN:VEVENT
 UID:B4.5-1911-0@noroloji-staji
 DTSTAMP:20261114T090000Z
 DTSTART:20261119T060000Z
@@ -116,13 +96,14 @@ DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup B4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:B4.5-1911-1@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261119T100000Z
+SEQUENCE:1
 DTSTART:20261119T103000Z
 DTEND:20261119T114500Z
-SUMMARY:NRŞ: İntrakranial Tümörler
+SUMMARY:NRŞ: Pediatrik Nöroşirürji
 LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
-DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Prof. Dr. Mu
- stafa Berker\nKüçük grup B4.5
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. 
+ Üyesi Ahmet Soyer\nKüçük grup B4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:B4.5-1911-2@noroloji-staji
@@ -202,13 +183,14 @@ DESCRIPTION:Tıp Fakültesi Binası\, TEBAD-1 odası\nKüçük grup B4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:B4.5-2511-1@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261119T100000Z
+SEQUENCE:1
 DTSTART:20261125T103000Z
 DTEND:20261125T114500Z
-SUMMARY:NRŞ: Pediatrik Nöroşirürji
+SUMMARY:NRŞ: İntrakranial Tümörler
 LOCATION:Konferans II Dershanesi (A kapısı\, 3. kat)
-DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Dr. Öğr. 
- Üyesi Ahmet Soyer\nKüçük grup B4.5
+DESCRIPTION:Konferans II Dershanesi (A kapısı\, 3. kat) · Prof. Dr. Mu
+ stafa Berker\nKüçük grup B4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:B4.5-2511-2@noroloji-staji
