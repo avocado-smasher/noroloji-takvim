@@ -271,10 +271,11 @@ DESCRIPTION:Konferans Salonu 1 · Prof. Dr. Işın Ünal Çevik\nKüçük
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0112-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261201T060000Z
 DTEND:20261201T090000Z
-SUMMARY:Seminer pratiği: Mental Durum Muayenesi
+SUMMARY:Muayene dersi: Mental Durum Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -290,10 +291,11 @@ DESCRIPTION:Konferans Salonu 1 · Prof. Dr. İrsel Tezer Filik\nKüçük
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0212-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261202T060000Z
 DTEND:20261202T090000Z
-SUMMARY:Seminer pratiği: Kranial Sinir ve Duyu Muayenesi
+SUMMARY:Muayene dersi: Kranial Sinir ve Duyu Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -310,10 +312,11 @@ DESCRIPTION:Konferans Salonu 1 · Prof. Dr. Çağrı Mesut Temuçin\nKü
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0312-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261203T060000Z
 DTEND:20261203T090000Z
-SUMMARY:Seminer pratiği: Motor Sistem Muayenesi
+SUMMARY:Muayene dersi: Motor Sistem Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -329,10 +332,11 @@ DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Ezgi Yetim Arsava\nK
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0412-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261204T060000Z
 DTEND:20261204T090000Z
-SUMMARY:Seminer pratiği: Serebellar ve Ekstrapiramidal Sistem Muayenesi
+SUMMARY:Muayene dersi: Serebellar ve Ekstrapiramidal Sistem Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -377,10 +381,11 @@ DESCRIPTION:Konferans Salonu 1 · Prof. Dr. Sevim Erdem Özdamar\nKüçü
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0912-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261209T060000Z
 DTEND:20261209T090000Z
-SUMMARY:Seminer pratiği: Kranial Sinir ve Duyu Muayenesi
+SUMMARY:Muayene dersi: Kranial Sinir ve Duyu Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -396,10 +401,11 @@ DESCRIPTION:Konferans Salonu 1 · Doç. Dr. A. İlksen Çolpak\nKüçük
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-1012-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261210T060000Z
 DTEND:20261210T090000Z
-SUMMARY:Seminer pratiği: Motor Sistem Muayenesi
+SUMMARY:Muayene dersi: Motor Sistem Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -415,10 +421,11 @@ DESCRIPTION:Konferans Salonu 1 · Prof. Dr. Neşe Dericioğlu\nKüçük g
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-1112-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261211T060000Z
 DTEND:20261211T090000Z
-SUMMARY:Seminer pratiği: Serebellar ve Ekstrapiramidal Sistem Muayenesi
+SUMMARY:Muayene dersi: Serebellar ve Ekstrapiramidal Sistem Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -462,10 +469,11 @@ DESCRIPTION:Konferans Salonu 1 · Dr. Öğr. Üyesi Pınar Acar Özen\nK
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-1712-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261217T060000Z
 DTEND:20261217T090000Z
-SUMMARY:Seminer pratiği: Motor Sistem Muayenesi
+SUMMARY:Muayene dersi: Motor Sistem Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -481,10 +489,11 @@ DESCRIPTION:Konferans Salonu 1 · Doç. Dr. Gül Yalçın Çakmaklı\nKü
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-1812-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261218T060000Z
 DTEND:20261218T090000Z
-SUMMARY:Seminer pratiği: Serebellar ve Ekstrapiramidal Sistem Muayenesi
+SUMMARY:Muayene dersi: Serebellar ve Ekstrapiramidal Sistem Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
@@ -510,10 +519,11 @@ DESCRIPTION:Konferans Salonu 1 · Prof. Dr. Çağrı Mesut Temuçin\nKü
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-2212-0@noroloji-staji
-DTSTAMP:20261114T090000Z
+DTSTAMP:20261122T132500Z
+SEQUENCE:1
 DTSTART:20261222T060000Z
 DTEND:20261222T090000Z
-SUMMARY:Seminer pratiği: Mental Durum Muayenesi
+SUMMARY:Muayene dersi: Mental Durum Muayenesi
 LOCATION:Bölüm 74 Seminer Odası
 DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
 END:VEVENT
