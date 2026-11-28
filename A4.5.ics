@@ -257,7 +257,9 @@ DTSTART:20261130T070000Z
 DTEND:20261130T090000Z
 SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: I. Ünal-Ç
+ evik\, N. Dericioğlu\, C. Ayvacıoğlu\, Ece Gök Dursun\nKüçük grup
+  A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-3011-1@noroloji-staji
@@ -275,9 +277,11 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261201T060000Z
 DTEND:20261201T090000Z
-SUMMARY:Muayene dersi: Mental Durum Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: A. İ. Çol
+ pak\, G. Yalçın Çakmaklı\, E. Yetim Arsava\, N. P. Acar Özen\nKüç
+ ük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0112-1@noroloji-staji
@@ -295,9 +299,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261202T060000Z
 DTEND:20261202T090000Z
-SUMMARY:Muayene dersi: Kranial Sinir ve Duyu Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: A. Tuncer\,
+  Doruk Arslan\, Özge Berna Gültekin\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0212-1@noroloji-staji
@@ -316,9 +321,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261203T060000Z
 DTEND:20261203T090000Z
-SUMMARY:Muayene dersi: Motor Sistem Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: S. Özdamar
+ \, F. İ. Tezer\, G. Yıldız Sarıkaya\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0312-1@noroloji-staji
@@ -336,9 +342,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261204T060000Z
 DTEND:20261204T090000Z
-SUMMARY:Muayene dersi: Serebellar ve Ekstrapiramidal Sistem Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: M. Akif Top
+ çuoğlu\, Ç. Temuçin\, C. Ebru Kurt\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0712-0@noroloji-staji
@@ -348,7 +355,9 @@ DTSTART:20261207T060000Z
 DTEND:20261207T090000Z
 SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: I. Ünal-Ç
+ evik\, N. Dericioğlu\, C. Ayvacıoğlu\, Ece Gök Dursun\nKüçük grup
+  A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0712-1@noroloji-staji
@@ -385,9 +394,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261209T060000Z
 DTEND:20261209T090000Z
-SUMMARY:Muayene dersi: Kranial Sinir ve Duyu Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: A. Tuncer\,
+  Doruk Arslan\, Özge Berna Gültekin\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-0912-1@noroloji-staji
@@ -405,9 +415,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261210T060000Z
 DTEND:20261210T090000Z
-SUMMARY:Muayene dersi: Motor Sistem Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: S. Özdamar
+ \, F. İ. Tezer\, G. Yıldız Sarıkaya\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-1012-1@noroloji-staji
@@ -425,9 +436,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261211T060000Z
 DTEND:20261211T090000Z
-SUMMARY:Muayene dersi: Serebellar ve Ekstrapiramidal Sistem Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: M. Akif Top
+ çuoğlu\, Ç. Temuçin\, C. Ebru Kurt\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-1412-0@noroloji-staji
@@ -473,9 +485,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261217T060000Z
 DTEND:20261217T090000Z
-SUMMARY:Muayene dersi: Motor Sistem Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: S. Özdamar
+ \, F. İ. Tezer\, G. Yıldız Sarıkaya\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-1712-1@noroloji-staji
@@ -493,9 +506,10 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261218T060000Z
 DTEND:20261218T090000Z
-SUMMARY:Muayene dersi: Serebellar ve Ekstrapiramidal Sistem Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: M. Akif Top
+ çuoğlu\, Ç. Temuçin\, C. Ebru Kurt\nKüçük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-2112-0@noroloji-staji
@@ -505,7 +519,9 @@ DTSTART:20261221T060000Z
 DTEND:20261221T090000Z
 SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: I. Ünal-Ç
+ evik\, N. Dericioğlu\, C. Ayvacıoğlu\, Ece Gök Dursun\nKüçük grup
+  A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-2112-1@noroloji-staji
@@ -523,9 +539,11 @@ DTSTAMP:20261122T132500Z
 SEQUENCE:1
 DTSTART:20261222T060000Z
 DTEND:20261222T090000Z
-SUMMARY:Muayene dersi: Mental Durum Muayenesi
+SUMMARY:Muayene dersi
 LOCATION:Bölüm 74 Seminer Odası
-DESCRIPTION:Bölüm 74 Seminer Odası\nKüçük grup A4.5
+DESCRIPTION:Bölüm 74 Seminer Odası · Gelebilecek hocalar: A. İ. Çol
+ pak\, G. Yalçın Çakmaklı\, E. Yetim Arsava\, N. P. Acar Özen\nKüç
+ ük grup A4.5
 END:VEVENT
 BEGIN:VEVENT
 UID:A4.5-2412-0@noroloji-staji
